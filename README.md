@@ -8,3 +8,4 @@ wget https://raw.githubusercontent.com/blackmixer/wiki_oknosoft/master/Install_c
 mkdir temp 
 cd temp
 sudo sh Install_couchdb2.0.0.sh 
+
