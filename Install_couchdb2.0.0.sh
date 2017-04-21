@@ -12,7 +12,7 @@ tar -xvzf apache-couchdb-2.0.0.tar.gz
 # перейдём в архив
 cd apache-couchdb-2.0.0/
 ./configure && make release
-# Добавим пользователя
+# Добавим пользователя couchdb
 adduser --system \
         --no-create-home \
         --shell /bin/bash \
